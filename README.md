@@ -1,2 +1,2 @@
 # Blog_Comments
-Hexo blog comments
+GitHub repository for blog comments
